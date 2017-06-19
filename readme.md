@@ -1,4 +1,4 @@
-# sample-rate  [![stable](https://img.shields.io/badge/stability-stable-brightgreen.svg)](http://github.com/badges/stability-badges) [![Build Status](https://img.shields.io/travis/audiojs/sample-rate.svg)](https://travis-ci.org/audiojs/sample-rate)
+# sample-rate  [![unstable](https://img.shields.io/badge/stability-unstable-green.svg)](http://github.com/badges/stability-badges) [![Build Status](https://img.shields.io/travis/audiojs/sample-rate.svg)](https://travis-ci.org/audiojs/sample-rate)
 
 List of common sample rates.
 
