@@ -2,4 +2,4 @@
 
 let assert = require('assert')
 
-assert.ok(require('./').length)
+assert.ok(require('./'))
