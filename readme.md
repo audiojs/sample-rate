@@ -1,3 +1,6 @@
+> [!WARNING]
+> Deprecated in favor of [pcm-convert](https://github.com/audiojs/pcm-convert).
+
 # sample-rate  [![unstable](https://img.shields.io/badge/stability-unstable-green.svg)](http://github.com/badges/stability-badges) [![Build Status](https://img.shields.io/travis/audiojs/sample-rate.svg)](https://travis-ci.org/audiojs/sample-rate)
 
 List of common sample rates.
